@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Список вопросов ОП.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Список вопросов ОП"
             }
           }
         ]
@@ -170,9 +170,9 @@
   },
   "active": "28dad6a037989cb6",
   "lastOpenFiles": [
+    "README.md",
     "Меню.md",
     "Основы программирования.md",
-    "Список вопросов ОП.md",
-    "README.md"
+    "Список вопросов ОП.md"
   ]
 }
